@@ -100,7 +100,7 @@ The server should now be up and running.
 
 Below are the configurations to be done in Eclipse:
 
-1. Open Eclipse and run the project for one time as `Java application`, so that it will create a Java application which you can see in debug configurations and then change its name. (e.g.: project name with environment - "Identity-Service-dev").
+1. Open Eclipse and run the project for one time as `Java application`, so that it will create a Java application which you can see in debug configurations and then change its name. (e.g.: project name with environment - "Credential-Service-dev").
 
 <img src="_images/create-env-in-eclipse.png" width="750" height="450">
 
@@ -117,4 +117,4 @@ Below are the configurations to be done in Eclipse:
 ​
 * The APIs can be tested with the help of **Swagger-UI**. 
 ​
-* Swagger is an interface description language for describing restful APIs expressed using JSON. You can access Swagger-UI of credential-services for localhost from `http://localhost:8090/idrepository/v1/identity/swagger-ui/index.html?configUrl=/idrepository/v1/identity/v3/api-docs/swagger-config#/`.
+* Swagger is an interface description language for describing restful APIs expressed using JSON. You can access Swagger-UI of credential-services for localhost from ``.
