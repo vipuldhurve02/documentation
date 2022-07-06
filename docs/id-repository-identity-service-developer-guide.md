@@ -43,7 +43,7 @@ Below are a list of tools required in ID Repository Services:
 
 Follow the steps below to set up ID Repository Services on your local system:
 
-1. Download `lombok.jar` and `settings.xml` from [here](https://github.com/mosip/documentation/tree/1.2.0/docs/_files/id-repsoitory-config-files).
+1. Download `lombok.jar` and `settings.xml` from [here](https://github.com/mosip/documentation/tree/1.2.0/docs/_files/id-repository-config-files).
 
 2. Unzip Apache Maven and move the unzipped folder in ```C:\Program Files``` and `settings.xml` to "conf" folder `C:\Program Files\apache-maven-3.8.4\conf`.
 
